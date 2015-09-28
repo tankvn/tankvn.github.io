@@ -1,0 +1,125 @@
+.container {
+  max-width: 770px !important;
+}
+
+/* Landscape phone to landscape tablet */
+@media (min-width: 992px) {
+  #details {
+    margin-top: 150px;
+    padding-left: 10px;
+    padding-right: 0px;
+  }
+  .col-lg-right {
+    float: right;
+  }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 991px) {
+  #details {
+    margin-top: 50px;
+  }
+  .text-sm-center {
+    text-align: center;
+  }
+}
+
+#header {
+  background: url(../images/backgrounds/back3.jpg) top center repeat;
+  margin-bottom: 50px;
+}
+
+#footer {
+  margin-top: 40px;
+  margin-bottom: 5px;
+}
+
+#details {
+  animation-delay: 1.0s;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+  animation-timing-function: ease;
+  backface-visibility: hidden;
+}
+
+#iphone {
+  background-image: url("../images/iphone.png");
+  background-size: cover;
+  width: 330px;
+  height: 557px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  animation-delay: 1.0s;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+  animation-timing-function: ease;
+  backface-visibility: hidden;
+}
+
+h1, h2, h3, a:hover {
+  /*  #27A9E3   1ABC9C #28B779   #FFB848   #DA542E   #2255A4  */
+  color: #e14e31;
+}
+
+p, a {
+  color: #353535;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.btn-download {
+  border-color: #231f20;
+  background-color: #231f20;
+  color: #FFFFFF;
+  padding: 6px 10px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+}
+
+.btn-download:hover {
+  border-color: #e14e31;
+  background-color: #e14e31;
+}
+
+.slider {
+  width: 281px;
+  height: 422px;
+  padding-top: 113px;
+  margin-left: 27px;
+  margin-right: auto;
+}
+
+.carousel-indicators {
+  bottom: 10px;
+  width: 150px;
+  margin-left: -75px;
+}
+
+.carousel-indicators li {
+  border: 1px solid #353535;
+  background-color: #353535;
+}
+
+.carousel-indicators li.active {
+  border: 1px solid #e14e31;
+  background-color: #e14e31;
+  margin: 1px;
+  width: 10px;
+  height: 10px;
+}
+
+.carousel-control.right, .carousel-control.left {
+  background-image: none;
+}
+
+.carousel-control.left:hover {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.4) 0px, transparent 100%);
+}
+
+.carousel-control.right:hover {
+  background-image: linear-gradient(to right, transparent 0px, rgba(0, 0, 0, 0.4) 100%);
+}
