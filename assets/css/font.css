@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'wii-web-icon';
+	src:url('fonts/wii-web-icon.eot?lczmdz');
+	src:url('fonts/wii-web-icon.eot?lczmdz#iefix') format('embedded-opentype'),
+		url('fonts/wii-web-icon.ttf?lczmdz') format('truetype'),
+		url('fonts/wii-web-icon.woff?lczmdz') format('woff'),
+		url('fonts/wii-web-icon.svg?lczmdz#wii-web-icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="wii-icon-"], [class*=" wii-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'wii-web-icon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.wii-icon-envato:before {
+	content: "\e900";
+}
+.wii-icon-facebook:before {
+	content: "\e901";
+}
+.wii-icon-github:before {
+	content: "\e902";
+}
+.wii-icon-googleplay:before {
+	content: "\e903";
+}
+.wii-icon-linkedin:before {
+	content: "\e904";
+}
+.wii-icon-mail:before {
+	content: "\e905";
+}
+.wii-icon-skype:before {
+	content: "\e906";
+}
+.wii-icon-tanvn:before {
+	content: "\e907";
+}
+.wii-icon-twitter:before {
+	content: "\e908";
+}
+.wii-icon-yahoo:before {
+	content: "\e909";
+}
+
