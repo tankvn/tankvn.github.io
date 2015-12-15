@@ -1,8 +1,8 @@
 
 .button-1 {
-	display: inline-block;
-	height: 75px;
-	margin: 0;
+    display: inline-block;
+    height: 75px;
+    margin: 0;
     padding: 0 0 0 15px;
     background: #000;
     font-size: 22px;
@@ -15,46 +15,46 @@
 }
 
 .button-1:hover {
-	background: #000;
-	background: rgba(0, 0, 0, 0.5);
-	color: #fff;
+    background: #000;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
 }
 
 .button-1 .button-1-left {
-	float: left;
+    float: left;
 }
 
 .button-1 .button-1-left i {
-	font-size: 75px;
-	vertical-align: middle;
+    font-size: 75px;
+    vertical-align: middle;
 }
 
 .button-1 .button-1-right {
-	float: left;
-	width: 160px;
-	margin: 7px 0 0 12px;
+    float: left;
+    width: 160px;
+    margin: 7px 0 0 12px;
 }
 
 .button-1 .button-1-right .button-1-right-top, 
 .button-1 .button-1-right .button-1-right-bottom {
-	float: left;
-	width: 100%;
-	font-weight: 400;
+    float: left;
+    width: 100%;
+    font-weight: 400;
 }
 
 .button-1 .button-1-right .button-1-right-bottom {
-	font-size: 34px;
-	line-height: 34px;
+    font-size: 34px;
+    line-height: 34px;
 }
 
 
 /***** Social icons *****/
 
 .social {
-	display: inline-block;
-	width: 42px;
-	height: 42px;
-	margin: 5px;
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    margin: 5px;
     padding: 11px 0 0 0;
     font-size: 20px;
     line-height: 20px;
@@ -65,7 +65,13 @@
 }
 .social:hover { color: #fff; background: #888; }
 
-.social-facebook { background: #6686b7; }
+.social-googleplay { background: #d0508f ; }
+.social-facebook { background: #3b579d; }
 .social-twitter { background: #54c0dd; }
-.social-pinterest { background: #ff5e63; }
+.social-envato { background: #82b541; }
+.social-github { background: #4078c0; }
+.social-linkedin { background: #4078c0; }
+.social-mail { background: #dd4b39; }
+.social-skype { background: #00ade5 ; }
+.social-yahoo { background: #7921cb; }
 
