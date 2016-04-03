@@ -1,12 +1,11 @@
-
 .button-1 {
     display: inline-block;
-    height: 75px;
+    height: 70px;
     margin: 0;
     padding: 0 0 0 15px;
     background: #000;
-    font-size: 22px;
-    line-height: 22px;
+    font-size: 18px;
+    line-height: 18px;
     color: #fff;
     text-align: left;
     -moz-border-radius: 8px;
@@ -25,13 +24,14 @@
 }
 
 .button-1 .button-1-left i {
-    font-size: 75px;
+    font-size: 45px;
+    line-height: 70px;
     vertical-align: middle;
 }
 
 .button-1 .button-1-right {
     float: left;
-    width: 160px;
+    width: 190px;
     margin: 7px 0 0 12px;
 }
 
@@ -47,6 +47,22 @@
     line-height: 34px;
 }
 
+.features-box-1-icon, .features-box-2-icon, .features-box-3-icon {
+    height: 80px;
+}
+
+.features-box-1 .features-box-2-icon {
+    margin: 0 auto;
+    font-size: 50px;
+    color: #333;
+}
+
+.features-box-1 .features-box-3-icon {
+    margin: 0 auto;
+    font-size: 56px;
+    line-height: 80px;
+    color: #333;
+}
 
 /***** Social icons *****/
 
