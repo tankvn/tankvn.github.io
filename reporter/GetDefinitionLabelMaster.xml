@@ -1,0 +1,19 @@
+<conmas>
+    <definitionLabelMaster>
+        <action>U</action>
+        <labelId>15</labelId>
+        <upperLabelId>1</upperLabelId>
+        <labelName>製造</labelName>
+        <labelIconId>7</labelIconId>
+        <labelRemarks/>
+        <displayNumber>0</displayNumber>
+        <registTerm>Sales02</registTerm>
+        <registUser>conmasadmin</registUser>
+        <registTime>2020/10/02 13:22:53</registTime>
+        <updateTerm>Sales02</updateTerm>
+        <updateUser>conmasadmin</updateUser>
+        <updateTime>2020/10/02 13:25:56</updateTime>
+        <autoDelete>0</autoDelete>
+        <labelRoleGroup></labelRoleGroup>
+    </definitionLabelMaster>
+</conmas>
