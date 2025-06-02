@@ -1,0 +1,12 @@
+<conmas>
+    <reportLabelMaster>
+        <action>U</action>
+        <labelId>6</labelId>
+        <upperLabelId>{ignore}</upperLabelId>
+        <labelName>{ignore}</labelName>
+        <labelIconId>{ignore}</labelIconId>
+        <labelRemarks>{ignore}</labelRemarks>
+        <displayNumber>{ignore}</displayNumber>
+        <labelRoleGroup>{ignore}</labelRoleGroup>
+    </reportLabelMaster>
+</conmas>
