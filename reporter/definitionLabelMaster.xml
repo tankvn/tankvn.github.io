@@ -1,5 +1,5 @@
 <conmas>
-    <RegistReportLabelMaster>
+    <definitionLabelMaster>
         <action>U</action>
         <labelId>6</labelId>
         <upperLabelId>{ignore}</upperLabelId>
@@ -8,5 +8,5 @@
         <labelRemarks>{ignore}</labelRemarks>
         <displayNumber>{ignore}</displayNumber>
         <labelRoleGroup>{ignore}</labelRoleGroup>
-    </RegistReportLabelMaster>
+    </definitionLabelMaster>
 </conmas>
